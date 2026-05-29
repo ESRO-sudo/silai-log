@@ -1,0 +1,16 @@
+{
+  "short_name": "सिलाई लॉग",
+  "name": "सिलाई उत्पादन लॉग और कार्य विवरण",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2371/2371842.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#2c3e50",
+  "theme-color": "#2c3e50",
+  "display": "standalone",
+  "orientation": "portrait"
+}
